@@ -136,19 +136,29 @@
     top: 20%;
     right: 25%;
 }
-.s8{
+
+.s8 {
     right: 24%;
     bottom: 20%;
 }
-.s9{
+
+.s9 {
     right: 2%;
     top: 10%;
 }
-.s10{
+
+.s10 {
     top: 45%;
     right: 11%;
 }
-.s11{
+
+.s11 {
     bottom: 10%;
     right: 2%;
+}
+
+@media screen and (max-width : 1024px) {
+    .home__social-link {
+        font-size: 1.125rem;
+    }
 }
