@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/DeveVivek-io/static/css/main.5307a477.css",
-    "main.js": "/DeveVivek-io/static/js/main.eb44a685.js",
+    "main.css": "/DeveVivek-io/static/css/main.5310dade.css",
+    "main.js": "/DeveVivek-io/static/js/main.5aea2f25.js",
     "static/media/blog-2.svg": "/DeveVivek-io/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
     "static/media/blog-1.svg": "/DeveVivek-io/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/DeveVivek.png": "/DeveVivek-io/static/media/DeveVivek.20c244f63a78c98e5921.png",
     "static/media/work-4.svg": "/DeveVivek-io/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
     "static/media/blog-3.svg": "/DeveVivek-io/static/media/blog-3.2b3b19d1ca3209f976198c3fd2418e16.svg",
     "static/media/work-3.svg": "/DeveVivek-io/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
@@ -16,14 +17,13 @@
     "static/media/work-2.svg": "/DeveVivek-io/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
     "static/media/service-3.svg": "/DeveVivek-io/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
     "static/media/service-2.svg": "/DeveVivek-io/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
-    "static/media/logo.svg": "/DeveVivek-io/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
     "static/media/dots-bg.svg": "/DeveVivek-io/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/DeveVivek-io/index.html",
-    "main.5307a477.css.map": "/DeveVivek-io/static/css/main.5307a477.css.map",
-    "main.eb44a685.js.map": "/DeveVivek-io/static/js/main.eb44a685.js.map"
+    "main.5310dade.css.map": "/DeveVivek-io/static/css/main.5310dade.css.map",
+    "main.5aea2f25.js.map": "/DeveVivek-io/static/js/main.5aea2f25.js.map"
   },
   "entrypoints": [
-    "static/css/main.5307a477.css",
-    "static/js/main.eb44a685.js"
+    "static/css/main.5310dade.css",
+    "static/js/main.5aea2f25.js"
   ]
 }
