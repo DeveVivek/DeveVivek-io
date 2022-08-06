@@ -3,6 +3,7 @@
     left: 0;
     top: 40px;
     background: var(--body--color);
+    /* background-color: azure; */
     border-right: 1px solid rgba(0, 0, 0, 0.05);
     width: 110px;
     min-height: 100vh;
@@ -19,7 +20,7 @@
 #home__logo{
     padding: 0.1rem;
     width: 100px;
-    height: 100px;
+    height: 50px;
 }
 
 .nav__list{
@@ -62,6 +63,8 @@
 @media screen and (max-width : 1024px) {
     .aside{
       left: -110px;
+      top: 25px;
+      min-height: 90vh;
     }
     .nav__toggle{
         display: flex;
