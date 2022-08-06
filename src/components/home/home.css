@@ -162,3 +162,62 @@
         font-size: 1.125rem;
     }
 }
+@media screen and (max-width : 576px) {
+    .s1 {
+        left: 20%;
+        top: 15%;
+    }
+    
+    .s2 {
+        left: 18%;
+        top: 30%;
+    }
+    
+    .s3 {
+        left: 5%;
+        top: 65%;
+    }
+    
+    .s4 {
+        left: 20%;
+        top: 15%;
+    }
+    
+    .s5 {
+        left: 44%;
+        top: 10%;
+    }
+    
+    .s6 {
+        left: 30%;
+        bottom: 15%;
+    }
+    
+    .s7 {
+        top: 20%;
+        right: 25%;
+    }
+    
+    .s8 {
+        right: 24%;
+        bottom: 20%;
+    }
+    
+    .s9 {
+        right: 10%;
+        top: 5%;
+    }
+    
+    .s10 {
+        top: 40%;
+        right: 11%;
+    }
+    
+    .s11 {
+        bottom: 10%;
+        right: 2%;
+    }
+    .home__scroll-name{
+        display: none;
+    }
+}
